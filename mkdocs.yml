@@ -1,0 +1,12 @@
+site_name: Model Policy & Implementation Guide
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - content.code.copy
+    - search.highlight
+
+nav:
+  - Overview: index.md
+  - Model Legislation: legislation.md
+  - Sample Code: implementation.md
