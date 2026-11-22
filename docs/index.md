@@ -8,3 +8,4 @@ Welcome to the draft portal. Use the left sidebar to review the model legislatio
 def verify_compliance(record_id: str) -> bool:
     return bool(record_id)
 ```
+
