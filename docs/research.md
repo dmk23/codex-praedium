@@ -38,6 +38,8 @@ The **Real Estate AI Task Force** builds upon over a year of published legal res
   * Real-world examples of AI contract hallucinations (such as missed addendum credits)
   * Early bicameral legislative progress in New York State
 
+![type:video](https://youtube.com/embed/OxksOzJAPhc)
+
 ---
 
 ## Key Policy Takeaways Across Publications
