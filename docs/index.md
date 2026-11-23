@@ -39,12 +39,9 @@ We welcome collaboration with any lawmaker, state regulator, or industry associa
 
 | Benchmark | Core Requirement | Why It Matters
 | --- | --- | --- |
-| ****1. Identifiable Fiduciary**** |
-Requires a named, state-licensed human professional to be clearly disclosed to the consumer for any automated transaction workflow. | Eliminates "black-box" anonymity so consumers always know who owes them loyalty and care.
-| ****2. Pre-Execution Human Sign-Off**** |
-Mandates human licensee review and approval *before* any offer, counteroffer, or binding contractual term is transmitted. | Prevents probabilistic AI hallucinations or missed addenda from binding consumers to costly errors.
-| ****3. Direct Enforcement Teeth**** |
-Empowers state real estate commissioners to investigate, fine, and enjoin *unlicensed* software operators—not just police existing agents. | Stops regulatory deflection where agencies only audit licensed brokers while ignoring illegal tech startups.
+| ****1. Identifiable Fiduciary**** | Requires a named, state-licensed human professional to be clearly disclosed to the consumer for any automated transaction workflow. | Eliminates "black-box" anonymity so consumers always know who owes them loyalty and care.
+| ****2. Pre-Execution Human Sign-Off**** | Mandates human licensee review and approval *before* any offer, counteroffer, or binding contractual term is transmitted. | Prevents probabilistic AI hallucinations or missed addenda from binding consumers to costly errors.
+| ****3. Direct Enforcement Teeth**** | Empowers state real estate commissioners to investigate, fine, and enjoin *unlicensed* software operators—not just police existing agents. | Stops regulatory deflection where agencies only audit licensed brokers while ignoring illegal tech startups.
 
 #### Statehouse Momentum & Rollout
 
