@@ -21,7 +21,7 @@ Real estate licensing lives in state capitals, not Washington, D.C. While legacy
 
 We do not seek to ban AI innovation or restrict legitimate productivity tools used by licensed professionals. Instead, we draw a bright, enforceable legal line between **software tools** and **fiduciary representation**: 
 
-**The Fiduciary Mandate:** Whenever an automated or agentic AI system performs regulated real estate brokerage activity—including drafting offers, negotiating terms, or advising consumers on property transactions—it must operate under the direct, identifiable supervision of a state-licensed human professional who reviews, signs off on, and retains full fiduciary accountability for the outcome. 
+> **The Fiduciary Mandate:** Whenever an automated or agentic AI system performs regulated real estate brokerage activity—including drafting offers, negotiating terms, or advising consumers on property transactions—it must operate under the direct, identifiable supervision of a state-licensed human professional who reviews, signs off on, and retains full fiduciary accountability for the outcome. 
 
 #### Why Open-Source Governance?
 
@@ -37,13 +37,14 @@ For decades, real estate policy has been drafted behind closed doors by insulate
 
 We welcome collaboration with any lawmaker, state regulator, or industry association. We evaluate all proposed state AI legislation against three objective benchmarks: 
 
-BenchmarkCore RequirementWhy It Matters
-****1. Identifiable Fiduciary****
-Requires a named, state-licensed human professional to be clearly disclosed to the consumer for any automated transaction workflow.Eliminates "black-box" anonymity so consumers always know who owes them loyalty and care.
-****2. Pre-Execution Human Sign-Off****
-Mandates human licensee review and approval *before* any offer, counteroffer, or binding contractual term is transmitted.Prevents probabilistic AI hallucinations or missed addenda from binding consumers to costly errors.
-****3. Direct Enforcement Teeth****
-Empowers state real estate commissioners to investigate, fine, and enjoin *unlicensed* software operators—not just police existing agents.Stops regulatory deflection where agencies only audit licensed brokers while ignoring illegal tech startups.
+| Benchmark | Core Requirement | Why It Matters
+| --- | --- | --- |
+| ****1. Identifiable Fiduciary**** |
+Requires a named, state-licensed human professional to be clearly disclosed to the consumer for any automated transaction workflow. | Eliminates "black-box" anonymity so consumers always know who owes them loyalty and care.
+| ****2. Pre-Execution Human Sign-Off**** |
+Mandates human licensee review and approval *before* any offer, counteroffer, or binding contractual term is transmitted. | Prevents probabilistic AI hallucinations or missed addenda from binding consumers to costly errors.
+| ****3. Direct Enforcement Teeth**** |
+Empowers state real estate commissioners to investigate, fine, and enjoin *unlicensed* software operators—not just police existing agents. | Stops regulatory deflection where agencies only audit licensed brokers while ignoring illegal tech startups.
 
 #### Statehouse Momentum & Rollout
 
