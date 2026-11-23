@@ -1,12 +1,45 @@
-site_name: Model Policy & Implementation Guide
+site_name: Real Estate AI Task Force | Codex Praedium
+site_url: https://RealEstateAITaskForce.com
+site_description: Open-source governance standards and model state legislation for licensee-in-the-loop AI oversight in real estate.
+repo_url: https://github.com/dmk23/codex-praedium
+repo_name: dmk23/codex-praedium
+
 theme:
   name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   features:
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
-    - content.code.copy
+    - navigation.top
+    - search.suggest
     - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - tables
 
 nav:
   - Overview: index.md
   - Model Legislation: legislation.md
-  - Sample Code: implementation.md
+  - Governance & Ethics: governance.md
+  - Prior Work & Media: research.md
+  - Get Involved: participate.md
+
