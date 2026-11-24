@@ -1,0 +1,12 @@
+# Real Estate AI Task Force | Codex Praedium
+
+> Open-source governance standards and model state legislation for licensee-in-the-loop AI oversight in real estate.
+
+## Documentation
+
+- [Overview](https://RealEstateAITaskForce.com/index.md)
+- [Governance & Ethics](https://RealEstateAITaskForce.com/governance/index.md)
+- [Model Legislation](https://RealEstateAITaskForce.com/legislation/index.md)
+- [Get Involved](https://RealEstateAITaskForce.com/participate/index.md)
+- [Prior Work & Media](https://RealEstateAITaskForce.com/research/index.md)
+
