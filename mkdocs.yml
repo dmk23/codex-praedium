@@ -31,8 +31,13 @@ theme:
 plugins:                   # Top-level key (same indentation as 'theme')
   - search                 # Always include 'search' when defining 'plugins'
   - mkdocs-video
-  - llmstxt
-  
+  - llmstxt:
+      sections:
+        Documentation:
+          - index.md
+          - "*.md"
+          - "**/*.md"
+          
 markdown_extensions:
   - admonition
   - pymdownx.details
