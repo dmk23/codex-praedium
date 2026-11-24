@@ -31,7 +31,7 @@ theme:
 plugins:                   # Top-level key (same indentation as 'theme')
   - search                 # Always include 'search' when defining 'plugins'
   - mkdocs-video
-  - mkdocs-llmstxt
+  - llmstxt
   
 markdown_extensions:
   - admonition
